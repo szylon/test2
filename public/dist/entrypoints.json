@@ -1,0 +1,40 @@
+{
+  "entrypoints": {
+    "js/global/main": {
+      "js": [
+        "/dist/runtime.1d84213d.js",
+        "/dist/js/global/main.0f14c388.js"
+      ]
+    },
+    "js/global/main.defer": {
+      "js": [
+        "/dist/runtime.1d84213d.js",
+        "/dist/js/global/main.defer.a43cf9aa.js"
+      ]
+    },
+    "css/global/default": {
+      "js": [
+        "/dist/runtime.1d84213d.js"
+      ],
+      "css": [
+        "/dist/css/global/default.53414322.css"
+      ]
+    },
+    "css/global/contrast": {
+      "js": [
+        "/dist/runtime.1d84213d.js"
+      ],
+      "css": [
+        "/dist/css/global/contrast.99284b1f.css"
+      ]
+    },
+    "css/global/mourning": {
+      "js": [
+        "/dist/runtime.1d84213d.js"
+      ],
+      "css": [
+        "/dist/css/global/mourning.3809f8ce.css"
+      ]
+    }
+  }
+}
